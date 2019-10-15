@@ -34,7 +34,7 @@ Go to the train(same in val,test) and creat the folders with your dataset, name 
 For example, I have 2 categories(cat and dog), I would build two folders under the train(val,test) and name them cat, dog.                    
                                                                                                                                           
 ***Thirdly:***                                                                                                                                         
-Run the train1.py.You will get a model named test.pth.                    
+Run the train1.py. You will get a model named test.pth.                    
                                                                                                                                         
 ***Finally:***                                                                                                                                     
 If you want to predict a picture, you can run test1.py.               
