@@ -5,12 +5,12 @@ Build a classified model with torchvision.models. The version of pytorch is 1.0
 You should create a folder named data, then create three folders named train, val and test respectfully.     
 For example,                                                                       
 	
-./                                                                                                                                           
+'''./                                                                                                                                           
 |                                                                                                                                       
 ----data ————train----class 1                                                                                                                                      
-			|        |                                                                                                                                       
-			|        |------class 2                                                                                                                                      
-			|        |                                                                                                                                      
+'''			|        |                                                                                                                                       
+'''			|        |------class 2                                                                                                                                      
+'''			|        |                                                                                                                                      
 			|        |------...                                                                                                                                      
 			|         ------class n                                                                                                                                      
 			|                                                                                                                                      
