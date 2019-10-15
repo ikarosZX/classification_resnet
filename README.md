@@ -21,12 +21,12 @@ For example,
 	      |      |--------...                                                                                                                                      
 	      |       --------class n                                                                                                                                      
 	      |                                                                                                                                      
- 	      ——————test-----class 1                                                                                                                                      
+ 	      ——————test------class 1                                                                                                                                      
  	              |                                                                                                                                       
-	              |------class 2                                                                                                                                      
+	              |-------class 2                                                                                                                                      
 	              |                                                                                                                                      
-	              |------...                                                                                                                                      
-	               ------class n                                                                                                                                      
+	              |-------...                                                                                                                                      
+	               -------class n                                                                                                                                      
                                                                                                                                       
 
 ***Secondly:***                                                                                                                                                          
