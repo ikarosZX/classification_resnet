@@ -7,13 +7,13 @@ For example,
 ./                                                                                                                                           
 |                                                                                                                                       
 ----data ————train----class 1                                                                                                                                      
-      |        |                                                                                                                                       
-      |        |------class 2                                                                                                                                      
-      |        |                                                                                                                                      
-      |        |------...                                                                                                                                      
-      |         ------class n                                                                                                                                      
-      |                                                                                                                                      
-       ——————val------class 1                                                                                                                                      
+			|        |                                                                                                                                       
+			|        |------class 2                                                                                                                                      
+			|        |                                                                                                                                      
+			|        |------...                                                                                                                                      
+			|         ------class n                                                                                                                                      
+			|                                                                                                                                      
+      |——————val------class 1                                                                                                                                      
       |      |                                                                                                                                       
       |      |--------class 2                                                                                                                                      
       |      |                                                                                                                                      
