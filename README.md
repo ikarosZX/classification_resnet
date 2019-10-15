@@ -7,26 +7,26 @@ For example,
 	
 	./                                                                                                                                           
 	|                                                                                                                                       
-	----data ————train----class 1                                                                                                                                      
+	----data ————train----class 1 --- m1 * img                                                                                                                                     
 	      |        |                                                                                                                                       
-	      |        |------class 2                                                                                                                                      
+	      |        |------class 2 --- m2 * img                                                                                                                                     
 	      |        |                                                                                                                                      
 	      |        |------...                                                                                                                                      
-	      |         ------class n                                                                                                                                      
+	      |         ------class n --- m3 * img                                                                                                                                     
 	      |                                                                                                                                      
-	      |——————val------class 1                                                                                                                                      
+	      |——————val------class 1 --- m4 * img                                                                                                                                      
 	      |      |                                                                                                                                       
-	      |      |--------class 2                                                                                                                                      
+	      |      |--------class 2 --- m5 * img                                                                                                                                      
 	      |      |                                                                                                                                      
 	      |      |--------...                                                                                                                                      
-	      |       --------class n                                                                                                                                      
+	      |       --------class n --- m6 * img                                                                                                                                      
 	      |                                                                                                                                      
- 	      ——————test------class 1                                                                                                                                      
+ 	      ——————test------class 1 --- m7 * img                                                                                                                                      
  	              |                                                                                                                                       
-	              |-------class 2                                                                                                                                      
+	              |-------class 2 --- m8 * img                                                                                                                                      
 	              |                                                                                                                                      
 	              |-------...                                                                                                                                      
-	               -------class n                                                                                                                                      
+	               -------class n --- m9 * img                                                                                                                                      
                                                                                                                                       
 
 ***Secondly:***                                                                                                                                                          
