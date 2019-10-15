@@ -6,27 +6,27 @@ You should create a folder named data, then create three folders named train, va
 For example,                                                                       
 	
 	./                                                                                                                                           
-|                                                                                                                                       
-----data ————train----class 1                                                                                                                                      
-'''			|        |                                                                                                                                       
-'''			|        |------class 2                                                                                                                                      
-'''			|        |                                                                                                                                      
-			|        |------...                                                                                                                                      
-			|         ------class n                                                                                                                                      
-			|                                                                                                                                      
-      |——————val------class 1                                                                                                                                      
-      |      |                                                                                                                                       
-      |      |--------class 2                                                                                                                                      
-      |      |                                                                                                                                      
-      |      |--------...                                                                                                                                      
-      |       --------class n                                                                                                                                      
-      |                                                                                                                                      
-       ——————test-----class 1                                                                                                                                      
-               |                                                                                                                                       
-               |------class 2                                                                                                                                      
-               |                                                                                                                                      
-               |------...                                                                                                                                      
-                ------class n                                                                                                                                      
+	|                                                                                                                                       
+	----data ————train----class 1                                                                                                                                      
+	      |        |                                                                                                                                       
+	      |        |------class 2                                                                                                                                      
+	      |        |                                                                                                                                      
+	      |        |------...                                                                                                                                      
+	      |         ------class n                                                                                                                                      
+	      |                                                                                                                                      
+	      |——————val------class 1                                                                                                                                      
+	      |      |                                                                                                                                       
+	      |      |--------class 2                                                                                                                                      
+	      |      |                                                                                                                                      
+	      |      |--------...                                                                                                                                      
+	      |       --------class n                                                                                                                                      
+	      |                                                                                                                                      
+ 	      ——————test-----class 1                                                                                                                                      
+ 	              |                                                                                                                                       
+	              |------class 2                                                                                                                                      
+	              |                                                                                                                                      
+	              |------...                                                                                                                                      
+	               ------class n                                                                                                                                      
                                                                                                                                       
 
 ***Secondly:***                                                                                                                                                          
