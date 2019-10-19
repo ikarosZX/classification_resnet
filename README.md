@@ -46,4 +46,8 @@ For example, I have 2 categories(cat and dog), I would build two folders under t
 You can change the parameters above. Then run the train1.py. You will get a model named test.pth.                    
                                                                                                                                         
 ***Finally:***                                                                                                                                     
-If you want to predict a picture, you can run test1.py.               
+If you want to predict a picture, you can run test1.py. But you should change the parameters below to load your own model and predict your own img  		
+	
+	'''test1.py'''
+	model_dir = './data/rn101_classifier3.pth'
+	img_dir = './data/test.jpg'
